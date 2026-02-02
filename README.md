@@ -34,10 +34,9 @@
 
 ###  GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcos-portella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-portella&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcos-portella&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-portella&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
