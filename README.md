@@ -35,7 +35,7 @@
 ###  GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-portella&theme=dracula" />
+  <img src="https://metrics.lecoq.io/marcos-portella?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" />
 </div>
 
 ---
